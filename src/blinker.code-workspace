@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../blinker"
+		},
+		{
+			"name": "data_sender_to_blinker",
+			"path": ".."
+		},
+		{
+			"name": "migalka",
+			"path": "../../migalka"
+		}
+	],
+	"settings": {}
+}
